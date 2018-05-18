@@ -1,2 +1,2 @@
 # crowdfunding-coin37
-Truffe and Open Zeppelin
+Standard, pausable token and crowdfunding smart contract using Truffe and Open Zeppelin
