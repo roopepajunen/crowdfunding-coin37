@@ -1,3 +1,3 @@
-# Token and crowdsale smart contract
+# Token and crowdsale smart contracts
 
-My first atttempt to create an ERC20 token and a crowdsale smart contracts using Truffle and Open Zeppelin.
+My first attempt to create an ERC20 token and a crowdsale smart contracts using Truffle and Open Zeppelin.
